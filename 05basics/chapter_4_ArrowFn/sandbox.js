@@ -53,4 +53,4 @@ const bill = (products, tax) => {
 
 console.log(bill([20, 50, 30], 0.2));
 
-
+// this is comment for new git commit
