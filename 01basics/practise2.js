@@ -14,4 +14,4 @@ console.log("--------------------------")
 testObj["4thKey"] = "4thValue"
 delete testObj[5]
 console.log(testObj)
-// something new
+
